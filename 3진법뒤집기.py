@@ -11,3 +11,4 @@ def solution(n):
         answer += int(i) * (3 ** (len(digit) - s))
         s += 1
     return answer
+    
